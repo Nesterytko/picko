@@ -1,0 +1,13 @@
+.w{border: 3px  coral ridge;padding: 25px; margin: 2px ;  }  
+.r{border: 4rem blue inset;padding: 5px }  
+.e{border: 5px ridge gray; width: 600px } 
+.e:hover{ width: 380px; transition: 2s     }
+.w:hover{background: crimson; transition: 2s }
+.w:hover{padding: 55px; transition: 2s}
+.A{color: cyan}
+.x{color: darkgreen}
+.c:hover{color: coral; transition: 1s }
+.n{color: red}  
+
+
+
